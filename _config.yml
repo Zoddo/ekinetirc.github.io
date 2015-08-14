@@ -30,15 +30,9 @@ noita:
     name: Anatol Broder
     url: http://penibelst.de/
   lang: fr
-  # topbar:
-    # toggle: Menu
-    # right:
-      # - name: About
-        # url: /about/
-      # - name: Guide
-        # url: /guide/
-      # - name: Blog
-        # url: /blog/
-      # - name: Repository
-        # url: https://github.com/penibelst/jekyll-noita
-        # class: small button
+  topbar:
+    toggle: Menu
+    left:
+      - name: Se connecter
+        url: /docs/connexion.html
+        class: small button
