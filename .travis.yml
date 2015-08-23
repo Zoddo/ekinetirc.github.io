@@ -1,4 +1,8 @@
 language: ruby
+cache:
+  bundler: true
+  directories:
+    - vnu
 rvm:
   - 2
 env:
