@@ -11,3 +11,9 @@ Afin de vous connecter à notre réseau et l'utiliser le mieux possible, vous po
 * [Se connecter au réseau](/docs/connexion.html)
 * [Utiliser les services](/docs/services.html)
 * [Masquer son adresse IP (Les hôtes virtuels)](/docs/vhosts.html)
+
+
+#### Informations utiles
+Ces informations pourraient aussi être utiles :
+
+* [L'équipe d'EkiNetIrc](/equipe.html) (et comment [nous contacter](/contact.html))

@@ -36,3 +36,6 @@ noita:
       - name: Se connecter
         url: /docs/connexion.html
         class: small button
+    right:
+      - name: L'équipe
+        url: /equipe.html
