@@ -17,3 +17,4 @@ Afin de vous connecter à notre réseau et l'utiliser le mieux possible, vous po
 Ces informations pourraient aussi être utiles :
 
 * [L'équipe d'EkiNetIrc](/equipe.html) (et comment [nous contacter](/contact.html))
+* [Les règles du réseau](/rules.html) (version simplifié de [la netiquette](/netiquette/))

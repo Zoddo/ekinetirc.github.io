@@ -65,7 +65,7 @@ Pour vous, cet opération est TOTALEMENT invisible. Pour les autres utilisateurs
 [20:31:47] pseudo [~user@cloaked/pseudo] a rejoint #Canal
 </code></pre>
 
-N'utilisez pas votre hôte virtuel à des fins contraire à notre [netiquette](/netiquette.md), sinon un administrateur pourra vous le retirer sur-le-champ.
+N'utilisez pas votre hôte virtuel à des fins contraire à notre [netiquette](/netiquette/), sinon un administrateur pourra vous le retirer sur-le-champ.
 
 Rappelez-vous que cela nous vous rend pas totalement anonyme. Les [administrateurs du réseau](/equipe.html) peuvent toujours voir votre adresse IP.
 De même nous enregistrons toute connexion à notre réseau avec l'IP/hôte réel pour des raisons légales.
