@@ -77,7 +77,7 @@ Cette section décrit l'utilisation des hôtes virtuels pour les groupes et les 
 ### Inscription
 Afin de mettre en place vos vhosts de groupe, un responsable du groupe/projet devrait contacter un [administrateur du réseau](/equipe.html) (Zoddo si possible).
 
-Demandez à votre chaque membre de équipe d'enregistrer son pseudo puis préparez une liste des utilisateurs avec les vhosts correspondantes.
+Demandez à chaque membre de votre équipe d'enregistrer son pseudo puis préparez une liste des utilisateurs avec les vhosts correspondantes.
 Vous pouvez aussi nous fournir une liste d'autres membres de votre équipe habilités à effectuer des demandes de modifications des vhosts.
 
 ### Ajouts, modifications et retraits des vhosts
