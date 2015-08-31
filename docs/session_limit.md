@@ -21,14 +21,14 @@ Comme l'indique ce message, cela est du au fait que nous limitons le nombre de s
 
 Actuellement, le nombre de session est limiter à **3 sessions par IP**. Cette limite peut-être réduite temporairement lors d'attaque sur le réseau ou en cas d'abus.
 
-Si les services sont obliger de "*kill*" (forcer la déconnexion) trop de sessions, un bannissement temporaire sur votre IP peut-être mis en place, provoquant l'affichage du deuxième message d'exemple.
+Si les services sont obligés de "*kill*" (forcer la déconnexion) trop de sessions, un bannissement temporaire sur votre IP peut-être mis en place, provoquant l'affichage du deuxième message d'exemple.
 
 ## Que faire ?
-Si ce n'est pas vous qui connectez toutes ces sessions sur notre réseau, votre ordinateur est probablement infecté. Nous ne pouvons pas vous aider sur ce point, voyez avec une personne compétante.
-Sinon, essayez de voir si il est vraiment utile de connecter toutes ces sessions ! Si vous avez une bonne raison, vous pouvez nous [contacter](/contact.html) et demander une exception à condition que votre adresse IP est fixe.
+Si ce n'est pas vous qui connectez toutes ces sessions sur notre réseau, votre ordinateur est probablement infecté. Nous ne pouvons alors pas vous aider et vous conseillons plutôt d'en parler avec une personne compétante.
+Sinon, essayez de voir si il est vraiment utile de connecter toutes ces sessions ! Si vous avez une bonne raison, vous pouvez nous [contacter](/contact.html) et demander une exception à condition que votre adresse IP soit fixe.
 
-Si vous avez accidentellement été banni, attendez juste quelques minutes. Les bannissements pour cette raison sont très court (5 minutes).
+Si vous avez accidentellement été banni, attendez juste quelques minutes. Les bannissements pour cette raison sont très courts (5 minutes).
 
-**Note :** Si cela se produit car vous avez été déconnectés à cause d'un problème réseau mais que l'ancienne session est resté active, vous pouvez la déconnecter en tapant cette commande :
+**Note :** Si cela se produit et que vous avez été déconnecté à cause d'un problème réseau mais que l'ancienne session est restée active, vous pouvez la déconnecter en tapant cette commande :
 <pre><code>/ns recover <u>pseudo</u>
 </code></pre>
