@@ -12,7 +12,7 @@ L'enregistrement permet de "réserver" et protégrer un nom d'utilisateur ou un 
 
 ## Eneregistrer un pseudo (nom d'utilisateur)
 L'enregistrement d'un pseudo est simple. Pour enregistrer le pseudo sous lequel vous êtes actuellement connecté, il suffit de tapez cette commande :
-<pre><code>/nickserver register <u>mot de passe</u> <u>e-mail</u>
+<pre><code>/nickserv register <u>mot de passe</u> <u>e-mail</u>
 </code></pre>
 
 **Note :** Vous devez remplacer la/les partie(s) <u>souilgnée(s)</u> ci-dessus par leur correspondance.  
