@@ -6,7 +6,7 @@ title: Se connecter au réseau
 Afin de vous connecter au réseau, il existe différentes méthodes présentent leurs avantages et leurs inconvenants.
 
 ## Connexion avec un client web
-Nous disposons d'un client web utilisant javascript afin de vous connecter au réseau. Pour cela, rendez vous sur [webirc.ekinetirc.fr.nf](http://webirc.ekinetirc.fr.nf/). Le mot de passe est à renseigner si votre pseudo est enregistrer sur les [services](/docs/services.html).
+Nous disposons d'un client web utilisant javascript afin de vous connecter au réseau. Pour cela, rendez vous sur [webirc.ekinetirc.fr.nf](http://webirc.ekinetirc.fr.nf/). Le mot de passe est à renseigner si votre pseudo est enregistrer sur les [services](/docs/services/enregistrement.html).
 
 ### Client web alternatif
 Un client web alternatif est disponible à l'adresse [ajax.ekinetirc.fr.nf](http://ajax.ekinetirc.fr.nf/). Mais il est recommander d'éviter son utilisation si possible pour des questions de performances.

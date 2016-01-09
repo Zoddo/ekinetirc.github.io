@@ -35,7 +35,7 @@ N'oubliez jamais cette règle : Vous n'êtes **JAMAIS** anonyme sur Internet.
 Afin de garder la main sur l'attribution des hôte virtuel et d'éviter les abus, aucune procédure automatisée n'a été mise en place pour l'instant.
 
 ### Prérequis
-* Il vous faut d'abord [enregistrer votre pseudo](services.html#enregistrer-son-pseudo). En effet, votre hôte virtuel sera lié à votre compte.
+* Il vous faut d'abord [enregistrer votre pseudo](/docs/services/enregistrement.html). En effet, votre hôte virtuel sera lié à votre compte.
 * Si vous faites parti d'un projet nous devrons d'abord avoir la confirmation d'un des responsables du projet avant de mettre en place votre hôte virtuel
 (si votre projet ne dispose pas encore de vhost, voir ci-dessous)
 
