@@ -21,7 +21,7 @@ L'enregistrement d'un pseudo est simple. Pour enregistrer le pseudo sous lequel 
 Un e-mail vous est ensuite envoyé pour vérifier votre adresse. Ce dernier contient une autre commande qui permet de confirmer l'enregistrement.
 
 **Astuce :** Vous pouvez abréger `/nickserv` en `/ns` lorsque vous tapez votre commande.  
-**Astuce :** Vous pouvez aussi enregistrer votre pseudo par [l'interface web](http://services.ekinetirc.fr.nf/register).
+**Astuce :** Vous pouvez aussi enregistrer votre pseudo par [l'interface web](http://services.ekinetirc.com/register).
 
 ### Connexion
 Une fois votre pseudo enregistrer, vous devez vous connecter avec votre mot de passe, sinon vous ne pourrez pas l'utiliser (il sera modifié automatiquement après 60 secondes).

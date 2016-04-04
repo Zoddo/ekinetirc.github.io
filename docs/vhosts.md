@@ -41,7 +41,7 @@ Afin de garder la main sur l'attribution des hôte virtuel et d'éviter les abus
 
 ### Demande
 Votre demande doit-être fait auprès d'un des [administrateurs du réseau](/equipe.html).
-Pour cela, rejoignez le canal [#EkiNetIrc](irc://irc.ekinetirc.fr.nf/#EkiNetIrc) et effectuez votre demande.
+Pour cela, rejoignez le canal [#EkiNetIrc](irc://irc.ekinetirc.com/#EkiNetIrc) et effectuez votre demande.
 
 Soyez patient, nous ne sommes pas toujours devant notre PC !
 

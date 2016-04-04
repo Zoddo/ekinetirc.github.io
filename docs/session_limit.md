@@ -10,7 +10,7 @@ title: Session limit exceeded
 
 Si vous arrivez sur cette page, c'est certainement car vous avez essayer de vous connecter sur le réseau, mais ce genre de message est apparu :
 <pre><code>-OperServ- The session limit for your IP xx.xx.xx.xx has been exceeded.
--OperServ- Please visit http://ekinetirc.fr.nf/docs/session_limit.html for more information about session limits.
+-OperServ- Please visit http://ekinetirc.com/docs/session_limit.html for more information about session limits.
 ERROR: Closing Link: pseudo[xx.xx.xx.xx] hub.fr.ekinetirc.com (OperServ (Session limit exceeded))
 </code></pre>ou
 <pre><code>*** You are banned from EkiNetIrc (Session limit exceeded (ID: XXXXXXXXXX)) Email gline@ekinetirc.com for more information.

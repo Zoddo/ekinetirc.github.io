@@ -16,7 +16,7 @@ permalink: /netiquette/
 
 2. Toute personne qui accède à l’un des Services proposés par EkiNetIrc s’engage **à respecter, sans réserve, les présentes Conditions Générales d’Utilisation**, complétées pour certains Services par des Conditions Particulières. Ces Conditions Particulières sont préalablement notifiées aux Utilisateurs lors de l'accès au service concerné.
 
-3. **EkiNetIrc est libre de modifier, à tout moment, les présentes CGU et les CPU**, afin notamment de prendre en compte toute évolution légale, jurisprudentielle, éditoriale et/ou technique. La version qui prévaut est celle qui est accessible en ligne à l’adresse suivante : http://ekinetirc.fr.nf/netiquette/. Il en est de même pour les CPU accessibles en ligne à l’adresse du Service concerné. Tout Utilisateur est donc tenu de se référer à leur version accessible en ligne à la date de son accès à l’un des Services quel qu'il soit.
+3. **EkiNetIrc est libre de modifier, à tout moment, les présentes CGU et les CPU**, afin notamment de prendre en compte toute évolution légale, jurisprudentielle, éditoriale et/ou technique. La version qui prévaut est celle qui est accessible en ligne à l’adresse suivante : http://ekinetirc.com/netiquette/. Il en est de même pour les CPU accessibles en ligne à l’adresse du Service concerné. Tout Utilisateur est donc tenu de se référer à leur version accessible en ligne à la date de son accès à l’un des Services quel qu'il soit.
 
 4. EkiNetIrc se réserve le droit de bloquer l'accès à tout moment à tout utilisateur sans préciser de raison.
 
@@ -83,9 +83,9 @@ Toutefois, ils ne doivent pas consommer inutilement nos ressources, et doivent r
 
 
 ## Comment vous défendre
-En cas de problème, veuillez expliquer votre problème sur le salon [#EkiNetIrc](irc://irc.ekinetirc.fr.nf/#EkiNetIrc).
+En cas de problème, veuillez expliquer votre problème sur le salon [#EkiNetIrc](irc://irc.ekinetirc.com/#EkiNetIrc).
 
-Vous pouvez également nous contacter en privé (demander sur [#EkiNetIrc](irc://irc.ekinetirc.fr.nf/#EkiNetIrc) avant) ou par e-mail.
+Vous pouvez également nous contacter en privé ou par e-mail.
 
 
 ## Protection juridique générale
@@ -123,7 +123,7 @@ Les pages Internet des Services peuvent contenir des liens hypertextes renvoyant
 ## Annexe
 
 ### Lexique
-- **EkiNetIrc** : Désigne l'ensemble des services ayant pour objet de favoriser les rencontres virtuelles entre personnes à des fins personnelles, de loisirs et non commerciales et accessibles notamment depuis le site Internet ekinetirc.fr.nf.
+- **EkiNetIrc** : Désigne l'ensemble des services ayant pour objet de favoriser les rencontres virtuelles entre personnes à des fins personnelles, de loisirs et non commerciales et accessibles notamment depuis le site Internet ekinetirc.com.
 
 - **Conditions Générales d’Utilisation** : L'ensemble de ce document (page web).
 

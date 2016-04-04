@@ -20,7 +20,7 @@ Afin d'enregistrer votre pseudo pour le protéger, exécutez cette commande sur 
 **Note :** Cette commande s'exécute en prenant en compte le pseudo que vous utilisez lorsque vous exécutez la commande.  
 **Note :** <u>mot de passe</u> est sensible à la casse.
 
-**Astuce :** Vous pouvez aussi enregistrer votre pseudo par [l'interface web](http://services.ekinetirc.fr.nf/register).
+**Astuce :** Vous pouvez aussi enregistrer votre pseudo par [l'interface web](http://services.ekinetirc.com/register).
 
 
 ### Ajouter un autre pseudo à son compte

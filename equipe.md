@@ -47,6 +47,6 @@ Notez que cette ligne peux prendre comme valeur ***Network Administrator*** ou *
 
 3. Cette ligne indique que le membre du staff est disponible et prêt à vous aider... enfin... sur le papier. En réalité, il se peux qu'on ne soit pas devant notre PC mais que cette ligne soit présente. Mais si elle n'est pas présente, ce n'est pas la peine d'insister, c'est qu'on est pas là ou qu'on est très occupé.
 
-### Vérifier le status sur le [canal officiel](irc://irc.ekinetirc.fr.nf/#EkiNetIrc)
-Cette méthode est très simple. Allez sur [#EkiNetIrc](irc://irc.ekinetirc.fr.nf/#EkiNetIrc) et vérifiez que la personne ait un **+** (ou parfois un **@**) devant son pseudo.
+### Vérifier le status sur le [canal officiel](irc://irc.ekinetirc.com/#EkiNetIrc)
+Cette méthode est très simple. Allez sur [#EkiNetIrc](irc://irc.ekinetirc.com/#EkiNetIrc) et vérifiez que la personne ait un **+** (ou parfois un **@**) devant son pseudo.
 Si c'est le cas, alors vous devriez être à peu prêt sûr qu'il s'agit d'un membre du staff.
