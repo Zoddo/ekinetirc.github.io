@@ -1,7 +1,7 @@
 ---
 title: IRC est mort, vive IRC !
 layout: post
-description: "IRC est un protocole de discussion instantané textuel créé bien avant Skype ou MSN accessible à tous !"
+description: ""
 robots: none
 ---
 
