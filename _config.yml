@@ -1,5 +1,6 @@
 # build
 markdown: kramdown
+permalink: /blog/:year/:title/
 kramdown:
   input: GFM
 exclude:
